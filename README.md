@@ -6,4 +6,5 @@ Interesting AI papers
 3. Kumar, Rithesh, et al. "High-Fidelity Audio Compression with Improved RVQGAN." arXiv preprint arXiv:2306.06546 (2023).
 4. Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023).
 5. Park, Jongho, et al. "Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks." arXiv preprint arXiv:2402.04248 (2024).
-6. 
+6. Shahriari, Yalda, et al. "Electrocardiogram signal quality assessment based on structural image similarity metric." IEEE Transactions on Biomedical Engineering 65.4 (2017): 745-753.
+7. 
